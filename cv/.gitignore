@@ -1,0 +1,10 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.out
+*.xdv
+
+# Generated PDF; the website serves ../resume.pdf.
+/resume.pdf
